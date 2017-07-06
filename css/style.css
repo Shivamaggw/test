@@ -1,0 +1,10 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+.logo {
+    display: block;
+    margin-left:105px;
+	  width:40%;
+}
+.active {
+    background-color: rgb(240,92,38);
+}
